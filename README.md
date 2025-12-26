@@ -4,7 +4,7 @@
 Im really excited to share my excel dash board
 
 # Data set used
-< a href="https://github.com/ali123svg/Karnataka-Sales-dash-board/blob/main/Karnataka%20Store%20Data%20Analysis.xlsx"> Dataset view </a>
+< a href=https://github.com/ali123svg/Karnataka-Sales-dash-board/blob/main/Karnataka%20Store%20Data%20Analysis.xlsx> Dataset view </a>
 ## 📈 Analysis Performed
 
 1. **Sales vs Orders** - Combined visualization
