@@ -3,6 +3,9 @@
  data analysis project providing insights into sales performance, customer behavior, and business metrics.
 Im really excited to share my excel dash board
 
+## Dataset
+Sample sales dataset with 31,049 rows used for analysis and dashboard creation.
+
 # Data set used
 < a href=[Dataset View](https://docs.google.com/spreadsheets/d/1jhqA4qTi_CiSFJaCgHmY5s84BhrULX0j/view)> Dataset view </a>
 
