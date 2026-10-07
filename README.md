@@ -24,7 +24,6 @@ Sample sales dataset with 31,049 rows used for analysis and dashboard creation.
 <a href="<img width="1200" height="483" alt="bc3a6327-4031-46b0-8e5c-fe310f8176fd" src="https://github.com/user-attachments/assets/d0d60a90-3320-49b8-aa3c-ee0323696201" />
 "> Dashboardview </a>
 
-<img width="1780" height="637" alt="Screenshot 2025-12-26 231715" src="https://github.com/user-attachments/assets/b20bc110-80cf-4bb6-bcb9-2ade7278b16e" />
 
 ## 🛠️ Features
 
