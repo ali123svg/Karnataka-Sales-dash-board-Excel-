@@ -21,7 +21,8 @@ Sample sales dataset with 31,049 rows used for analysis and dashboard creation.
 8. **Top Categories** - Best-selling products
 
 # Dash board view
-<img width="1200" height="483" alt="bc3a6327-4031-46b0-8e5c-fe310f8176fd" src="https://github.com/user-attachments/assets/d0d60a90-3320-49b8-aa3c-ee0323696201" />
+<img width="1897" height="687" alt="Screenshot 2026-10-08 012001" src="https://github.com/user-attachments/assets/3cad3b2f-f7be-4ee6-96da-290562665a04" />
+ 
 
 
 ## 🛠️ Features
